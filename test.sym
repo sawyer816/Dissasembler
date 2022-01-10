@@ -1,0 +1,13 @@
+Symbol  Address Flags:
+-----------------------
+FIRST   000000  R
+BADR    00000A  R
+RETADR  0002C6  R
+WLOOP   0002D3  R
+EADR    0002E6  R
+
+Name    Lit_Const  Length Address:
+------------------------------
+VDEV    X'F1'       2   0002C9
+WDEV    X'000001'   6   0002D0
+        =X'000007'  6   0002E3
